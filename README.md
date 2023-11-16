@@ -126,7 +126,8 @@ void ultrasonic()
 ```c
 
 ## RESULTS:
-![Screenshot 2023-11-16 115157](https://github.com/naveenkumar12624/Simulation-project/assets/93427235/93c9f200-27a9-49d9-9ce9-3643892d0cc6)
+
+![Screenshot 2023-11-16 093901](https://github.com/naveenkumar12624/Simulation-project/assets/93427235/e3398030-da89-4f05-8089-4cd2a0bed382)
 
 ## CONCLUSION:
 
