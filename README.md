@@ -123,7 +123,7 @@ void ultrasonic()
   duration = pulseIn(echoPin, HIGH);//Read the echo pin
   distance = (duration / 2) / 29.1; // calculate the distance
 }
-```c
+```
 
 ## RESULTS:
 
