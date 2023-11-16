@@ -9,7 +9,18 @@ This abstract encapsulates the essence of an IoT-based mini project designed to 
 Introducing the innovative Accident Detection System using Arduino and various sensors, this project aims to revolutionize safety measures in vehicles and public spaces. By integrating vibration sensors, ultrasonic modules, and GPS technology, the system swiftly identifies potential accidents, promptly alerting authorities via GSM communication. Its multifaceted approach not only detects collisions but also provides precise location details, enhancing emergency response efficiency. This project embodies a proactive solution, promising to significantly mitigate the impact of accidents and bolster safety across diverse environments in real-time.
 
 ## LITERATURE REVIEW:)
-[M, K., B.M., G., & S, R. (2019). IoT Based Advanced Accident Alert and Vehicle Monitoring System. International Journal of Innovative Research in Applied Sciences and Engineering.](https://doi.org/10.29027/ijirase.v3.i11.2019.412-415.)
+The papers collectively propose IoT-based accident detection systems that aim to improve response time and save lives. Y 2023 presents a real-time accident detection system using IoT components like a microcontroller, GPS, gyroscope, and vibration sensor. The system detects accidents, collects data, and sends it to emergency services through cloud servers. Puthur 2019 focuses on accident detection and prevention, providing real-time tracking and immediate notification to closed ones and authorities. Bergonda 2017 introduces an accident detection system that sends location information via Wi-Fi to a mobile number. Reddy 2023 proposes an IoT-based accidental detection system that automatically informs the nearest hospital about accidents.
+
+@article{Puthur2019IoTBA,
+  title={IoT based accident detection and prevention system with android application},
+  author={Johnny Antony Puthur and S. Siamala Devi},
+  journal={International Journal of Advance Research, Ideas and Innovations in Technology},
+  year={2019},
+  volume={5},
+  pages={271-273},
+  url={https://api.semanticscholar.org/CorpusID:213998098}
+}
+
 ## PROPOSED METHODLOGY:
 
 ## CIRCUIT DIAGRAM:
